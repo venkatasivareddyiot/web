@@ -8,7 +8,7 @@ Welcome to webdesign's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+    introduction to react js
 
 
 
